@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/nivo-reactjs/static/css/main.294d8f3e.chunk.css",
+    "main.js": "/nivo-reactjs/static/js/main.21ed5bf7.chunk.js",
+    "main.js.map": "/nivo-reactjs/static/js/main.21ed5bf7.chunk.js.map",
+    "runtime-main.js": "/nivo-reactjs/static/js/runtime-main.b0ba0f50.js",
+    "runtime-main.js.map": "/nivo-reactjs/static/js/runtime-main.b0ba0f50.js.map",
+    "static/js/2.f08c8006.chunk.js": "/nivo-reactjs/static/js/2.f08c8006.chunk.js",
+    "static/js/2.f08c8006.chunk.js.map": "/nivo-reactjs/static/js/2.f08c8006.chunk.js.map",
+    "static/js/3.e8be9df7.chunk.js": "/nivo-reactjs/static/js/3.e8be9df7.chunk.js",
+    "static/js/3.e8be9df7.chunk.js.map": "/nivo-reactjs/static/js/3.e8be9df7.chunk.js.map",
+    "index.html": "/nivo-reactjs/index.html",
+    "static/css/main.294d8f3e.chunk.css.map": "/nivo-reactjs/static/css/main.294d8f3e.chunk.css.map",
+    "static/js/2.f08c8006.chunk.js.LICENSE.txt": "/nivo-reactjs/static/js/2.f08c8006.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b0ba0f50.js",
+    "static/js/2.f08c8006.chunk.js",
+    "static/css/main.294d8f3e.chunk.css",
+    "static/js/main.21ed5bf7.chunk.js"
+  ]
+}
